@@ -23,6 +23,7 @@ Curating the best open-source alternatives for famous apps.
 - [Hubspot](#hubspot)
 - [Intercom](#intercom)
 - [Instagram](#instagram)
+- [Marked](#marked)
 - [Npm](#npm)
 - [Netlify](#netlify)
 - [Quizlet](#quizlet)
@@ -141,6 +142,9 @@ Curating the best open-source alternatives for famous apps.
 
 ### [Instagram](https://instagram.com)
 - [Pixelfed](https://github.com/pixelfed)
+
+### [Marked](https://marked2app.com/)
+- [Glim](https://github.com/NeoPanic/Glim) — macOS Markdown preview with Mermaid diagrams, formulas and basic source editing.
 
 ### [Npm](https://www.npmjs.com)
 - [Verdaccio](https://github.com/verdaccio)
